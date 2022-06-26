@@ -47,6 +47,13 @@ function countOnline(usersObj) {
         }
     }
     return count;
+
+
+    obj[user].online
+
+    and
+
+    obj.user.online
     // Only change code above this line
 }
 
